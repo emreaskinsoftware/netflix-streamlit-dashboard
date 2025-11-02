@@ -1,0 +1,20 @@
+# Sanal Ortam (Virtual Environment)
+# ASLA venv klasörünü yükleme!
+venv/
+*.venv/
+
+# Python 'cache' dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# İşletim Sistemi 'gereksiz' dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE (VS Code / PyCharm) ayar klasörleri
+.vscode/
+.idea/
+
+# Streamlit secrets (Eğer ileride eklersek)
+.streamlit/secrets.toml

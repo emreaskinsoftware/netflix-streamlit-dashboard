@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[theme]
+# Ana Renkler
+primaryColor="#E50914"     # Netflix Kırmızısı (Butonlar, vb.)
+backgroundColor="#141414" # Netflix Siyahı (Arka plan)
+secondaryBackgroundColor="#232323" # Netflix Koyu Gri (Sidebar, widget'lar)
+textColor="#FFFFFF"      # Beyaz Metin
+font="sans serif"
