@@ -2,7 +2,7 @@
 
 Bu proje, Netflix içerik veri setini analiz etmek için oluşturulmuş **profesyonel, çok sayfalı (multi-page) interaktif bir web uygulamasıdır.** Proje, "çalışan" bir prototipten öte, "kıdemli" (senior) yazılım geliştirme prensiplerine odaklanılarak inşa edilmiştir.
 
-**Canlı Demo Linki:** `[Henüz Dağıtılmadı - Yakında Eklenecek]`
+**Canlı Demo Linki:** https://netflix-app-dashboard-b.streamlit.app/
 
 ---
 
